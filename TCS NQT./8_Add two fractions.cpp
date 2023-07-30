@@ -10,8 +10,6 @@ void addFraction(int num1, int den1, int num2,int den2)
 //Your code here
 int num3,den3;
 
-
-
 den3=  (den1 * den2)/gcd(den1,den2);//LCM
 
 
